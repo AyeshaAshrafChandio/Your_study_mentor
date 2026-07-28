@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Mentor",
+  "description": "An AI-powered study dashboard that helps you summarize materials, generate quizzes, flashcards, personalized study plans, and chat with your documents using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
